@@ -1,2 +1,3 @@
 name: pmnaish
-pygments: false
+pygments: true
+exclude: ["vendor"]
