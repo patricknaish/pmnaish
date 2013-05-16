@@ -8,19 +8,19 @@ layout: nil
 	<link type="application/atom+xml" href="http://paulstamatiou.com/feed/" rel="self"/>
  	<link type="text" href="http://paulstamatiou.com" rel="alternate"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://paulstamatiou.com</id>
+	<id>http://pmnaish.co.uk</id>
 	<author>
-		<name>Paul Stamatiou</name>
+		<name>Patrick Naish</name>
 	</author>
-	<rights>Copyright (c) 2005-2011, Paul Stamatiou; all rights reserved.</rights>
+	<rights>(c) Patrick Naish 2011-2013</rights>
 	
 	{% for post in site.posts limit:20 %}
 	<entry>
 		<title>{{ post.title }}</title>
-		<link href="http://paulstamatiou.com{{ post.url }}"/>
+		<link href="http://pmnaish.co.uk{{ post.url }}"/>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
-		<id>http://paulstamatiou.com{{ post.id }}</id>
-		<content type="html">{{ post.content | xml_escape }}{% include rss_footer.html %}</content>
+		<id>http://pmnaish.co.uk{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}</content>
 	</entry>
 	{% endfor %}
 </feed>
