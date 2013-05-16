@@ -46,7 +46,7 @@
         </div>
         <div class="span9">
           <h2 style="float:left;">{{page.title}}</h2>
-          <h4 style="float:right;">{% if page.date %}{{ page.date | date: "%d/%m/%y" }}{% endif %}</h4>
+          <h4 style="float:left;position:relative;top:15px;margin-left:10px;color:grey;">{% if page.date %}{{ page.date | date: "%d/%m/%y" }}{% endif %}</h4>
           <hr style="clear:both" />
           {{content}}
         </div>
