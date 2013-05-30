@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Sprache"
+date:   2013-05-30 03:50:00
+categories:
+---
+
+I've recently taken an interest at getting back into learning German, after a long period of horribly neglecting it. To this end, I tried a couple of websites.
+
+Firstly, [@_Timespace](https://twitter.com/_Timespace) recommended [memrise](http://www.memrise.com/) to me. This site has quite a wide range of courses (including non-language courses), and uses visual mnemonics to aid learning. The quality of the images varies quite significantly (as they are mostly user-submitted), so your mileage may vary.
+
+Soon after, [@danpalmer](https://twitter.com/danpalmer) recommended [Duolingo](http://duolingo.com/). This is significantly more gamified than memrise, minus the visual mnemonics. There's a pretty strong competitive element against your friends (pulled in from Facebook or added manually), and the lessons are nicely structured for learning. So far I've had a much more positive result with Duolingo than memrise. The Android app (and, apparently, the iOS app) is very nicely designed.
+
+If you're feeling competitive, [add me](http://duolingo.com/#/patricknaish) and we'll German the night away.
