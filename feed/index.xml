@@ -12,7 +12,7 @@ layout: nil
 	<author>
 		<name>Patrick Naish</name>
 	</author>
-	<rights>(c) Patrick Naish 2011-2013</rights>
+	<rights>(c) Patrick Naish 2011-2014</rights>
 	
 	{% for post in site.posts limit:20 %}
 	<entry>
