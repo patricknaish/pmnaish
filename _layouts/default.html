@@ -35,7 +35,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-3">
-          <h3 style="float:left;">Blog Posts</h3>
+          <h3 style="float:left; margin-bottom:17px;">Blog Posts</h3>
           <hr style="clear:both" />
           <ul>
             {% for post in site.posts %}
@@ -45,7 +45,7 @@
         </div>
         <div class="col-xs-9">
           <h2 style="float:left;">{{page.title}}</h2>
-          <h4 style="float:left;position:relative;top:15px;margin-left:10px;color:grey;">{% if page.date %}{{ page.date | date: "%d/%m/%y" }}{% endif %}</h4>
+          <h4 style="float:left;position:relative;top:21px;margin-left:10px;color:grey;">{% if page.date %}{{ page.date | date: "%d/%m/%y" }}{% endif %}</h4>
           <hr style="clear:both" />
           {{content}}
         </div>
