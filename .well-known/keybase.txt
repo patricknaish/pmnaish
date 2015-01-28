@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/patricknaish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pmnaish.co.uk
+  * I am patricknaish (https://keybase.io/patricknaish) on keybase.
+  * I have a public key with fingerprint 3008 34C9 5ECA DD35 EA07  0952 DC07 B716 2D3C 506D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "300834c95ecadd35ea070952dc07b7162d3c506d",
+            "host": "keybase.io",
+            "key_id": "dc07b7162d3c506d",
+            "kid": "0101ee7b6ca3ba0903705e7963abc4135a369c99e26deace90cf914c6db634de78c00a",
+            "uid": "7ceec2ac3fa1646b6eee204575136900",
+            "username": "patricknaish"
+        },
+        "revoke": {
+            "sig_ids": [
+                "2e8c0927c18188a1e554f5a410a81f39afe2baeb197fb02a342fcfdc07ff2edb0f"
+            ]
+        },
+        "service": {
+            "hostname": "pmnaish.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1422477431,
+    "expire_in": 157680000,
+    "prev": "57c10d6c9b2e16f27a49de7a3445f0aa2d5f8e8767f94bfdbec2d176cb02ee63",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMOAAnicbZJrTBRXHMWXV01XLKIVizU8RgSKiPOenS0NomTXEoO22mql2+2dmTsw
+rruz7C4IBSK0oVGUUEwwhliDUEDTSlqkWRJKBYpSQR5CGttqlCICgQIBYhHQtndJ
+/db5Mpl7z/39zzlzO9b4aLRe91e5g7bH77d6dbddytQcvLXneC4mqFIOps/FLHDl
+JSu2NOiwOxSbC9NjFI7rKFrkGSgCSaIYCHAO5xlSEnFO4AiWlCiRwVkJi8XSVafn
+BMIIwAnjFBWtoQ+zIqHV/9FbVjZwAicg5ARWBJQAcB6nOJyBHM9SQBBpgmIAxfIi
+z0OSlSAQIY+LMk/QIisJLEVLkNOJOA4QLnMFx4kQiiQQKRkQLM0KLISQxGmGYwjE
+wXGP0AkdNmCFSG0HLociWmxAcaZj+bGYA2apFuhpwamkIeNOTJ+KkRCN4ElOJHSE
+TgcIyDC0zACawIGOkCkeyJAUABQInpMFnAQUTcqi7AksyySUBFzGTIiNpmYp4grc
+09QLB9aV4XGiGpdpQebsDtWliuoxtJXuctn1HleuHLtHehwK5v8gZkGxSeg/oQNZ
+0OFUVBumJ5BSdCkeKkGTJM1xNEXEYjDbrjigWfEoGI7V4ejxjIFZCMmgULjEirxA
+QoKVSQ7QPKoURaAZGQeAlBhZB3Ucy8k8LciSgLqVCI4VUU4IWQrzxMqwqZieRzZB
+GkKi4mzAlemAWH5724e+Gi+t5iU/b89N02hfXvvi/s1lBPwd/X7MoetJhxYSbvY/
+UHY9Uwzsb+sdOs1Xze0+488SwrcWGSdKHns3meXGIdqel5yydTT7pPl5kas3/Or8
++snp1TVv1GwJnD4bsNG++aNPwhZGQ24X/jOQXKzJTvrys7CmvT+4DQ+/72uZmKIu
+LJ1upc61pu6skCyLmzpN2upLX4/YdqwLPRwUWLtx+G3TQyk64oom3qCGvZnUM9hT
+ot/XmLPmW5+zwWu3TydGzv9hfHp1uLJsuqz555M1hoJ1Q6bit8roTWlR/qV/VpmF
+6lXB7t4HIxrfD/Qb3tk/fr7rZlfh+Lbw1vRaaNX/Eh04MzMw3Fo5Mp5PjbhKdviO
+9zWEbZ642GDvN8wt7+uhjYtxpdYU7byxv+jWWLGc0GvbO1VRHhKZYfx4eem+f15w
+faJ3yLtejQtLF7oPbKmuf2JY9pvGF04ZOq8HXBy4m9yZQIffaf8i6uhU1LHkzrTd
+J+LvFjZd290Bq66V++Xq/rrXV3C4wBxwe7JyUGs9df6nnTOxVF1vy2s3nt8z5Ty+
+YzrtV/8ofXDb4lzTr8E5R9uexNir3GOPrhiOpL4X4TVbNeRT1zsw2vEj/VQ5mM2l
+7GkoPTN7ZrL407Gyc3Gf1ycmn6iKuGwATQ3N8zcu1zpCN6jl3a8YZ/OCfj8Qubql
+/Eh+nbvim9hXuzrbcrnQIf/XI/iE5pjvSkx57tJ/AZW3yy8=
+=j2Vd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/patricknaish
+
+==================================================================
